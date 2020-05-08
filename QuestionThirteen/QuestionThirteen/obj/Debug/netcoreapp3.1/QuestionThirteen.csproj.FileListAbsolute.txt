@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\bin\Debug\netcoreapp3.1\QuestionThirteen.exe
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\bin\Debug\netcoreapp3.1\QuestionThirteen.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\bin\Debug\netcoreapp3.1\QuestionThirteen.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\bin\Debug\netcoreapp3.1\QuestionThirteen.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\bin\Debug\netcoreapp3.1\QuestionThirteen.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\bin\Debug\netcoreapp3.1\QuestionThirteen.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionThirteen\QuestionThirteen\obj\Debug\netcoreapp3.1\QuestionThirteen.genruntimeconfig.cache

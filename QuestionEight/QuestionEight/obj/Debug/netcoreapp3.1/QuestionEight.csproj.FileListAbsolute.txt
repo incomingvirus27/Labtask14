@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\bin\Debug\netcoreapp3.1\QuestionEight.exe
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\bin\Debug\netcoreapp3.1\QuestionEight.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\bin\Debug\netcoreapp3.1\QuestionEight.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\bin\Debug\netcoreapp3.1\QuestionEight.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\bin\Debug\netcoreapp3.1\QuestionEight.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\bin\Debug\netcoreapp3.1\QuestionEight.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionEight\QuestionEight\obj\Debug\netcoreapp3.1\QuestionEight.genruntimeconfig.cache
