@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\bin\Debug\netcoreapp3.1\QuestionSix.exe
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\bin\Debug\netcoreapp3.1\QuestionSix.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\bin\Debug\netcoreapp3.1\QuestionSix.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\bin\Debug\netcoreapp3.1\QuestionSix.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\bin\Debug\netcoreapp3.1\QuestionSix.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\bin\Debug\netcoreapp3.1\QuestionSix.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.genruntimeconfig.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\LabTask14\QuestionSix\QuestionSix\obj\Debug\netcoreapp3.1\QuestionSix.csprojAssemblyReference.cache
