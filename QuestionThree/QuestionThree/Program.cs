@@ -7,7 +7,7 @@ namespace QuestionThree
     {
         static void Main(string[] args)
         {
-            Numbers num = delegate ()
+            Numbers num = () =>
             {
                 int[] numbers = { 45, 340, 23, 56, 32 };
                 int max = numbers[0];
